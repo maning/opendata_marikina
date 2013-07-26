@@ -25,6 +25,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "571310796",
         "amenity": "bicycle_parking",
@@ -42,6 +43,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "571310797",
         "amenity": "bicycle_parking",
@@ -59,6 +61,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "571310799",
         "amenity": "bicycle_parking",
@@ -76,6 +79,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "571310800",
         "amenity": "bicycle_parking",
@@ -93,6 +97,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "582484777",
         "amenity": "bicycle_parking",
@@ -110,6 +115,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "582484778",
         "amenity": "bicycle_parking",
@@ -127,6 +133,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "582484779",
         "amenity": "bicycle_parking",
@@ -144,6 +151,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "665242929",
         "amenity": "bicycle_parking",
@@ -161,6 +169,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "665242963",
         "amenity": "bicycle_parking",
@@ -178,6 +187,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "665242966",
         "amenity": "bicycle_parking",
@@ -195,6 +205,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "671917092",
         "amenity": "bicycle_parking",
@@ -212,6 +223,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "688386500",
         "amenity": "bicycle_parking",
@@ -229,6 +241,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "878080506",
         "amenity": "bicycle_parking",
@@ -246,6 +259,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "1132145384",
         "amenity": "bicycle_parking",
@@ -263,6 +277,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "1132145385",
         "amenity": "bicycle_parking",
@@ -280,6 +295,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "1162959558",
         "amenity": "bicycle_parking",
@@ -297,6 +313,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "1162959561",
         "amenity": "bicycle_parking",
@@ -314,6 +331,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "1298205868",
         "amenity": "bicycle_parking",
@@ -331,6 +349,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "1300400337",
         "amenity": "bicycle_parking",
@@ -348,6 +367,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "1309736153",
         "amenity": "bicycle_parking",
@@ -365,6 +385,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "1466694494",
         "amenity": "bicycle_parking",
@@ -382,6 +403,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "bicycle",
         "@type": "node",
         "@id": "2286277146",
         "amenity": "bicycle_parking",
