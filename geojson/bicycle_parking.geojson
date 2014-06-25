@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-05-13T05:42:02Z",
+  "timestamp": "2014-06-25T05:49:02Z",
   "features": [
     {
       "type": "Feature",
@@ -316,8 +316,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.0812275,
-          14.6305518
+          121.0810497,
+          14.6310181
         ]
       }
     },
@@ -378,6 +378,117 @@
         "coordinates": [
           121.0973262,
           14.6326435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2854440112",
+      "properties": {
+        "@id": "node/2854440112",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.083547,
+          14.6260597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2910867793",
+      "properties": {
+        "@id": "node/2910867793",
+        "amenity": "bicycle_parking",
+        "name": "Bicycle Parking",
+        "operator": "Bellarmine Hall",
+        "supervised": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0789173,
+          14.6399454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2910867794",
+      "properties": {
+        "@id": "node/2910867794",
+        "amenity": "bicycle_parking",
+        "name": "Bicycle Parking",
+        "operator": "Bellarmine Hall",
+        "supervised": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0793564,
+          14.6416772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2917399578",
+      "properties": {
+        "@id": "node/2917399578",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0926688,
+          14.6167039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2917399579",
+      "properties": {
+        "@id": "node/2917399579",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1009166,
+          14.6219724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2932300130",
+      "properties": {
+        "@id": "node/2932300130",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0962909,
+          14.6294001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2932300135",
+      "properties": {
+        "@id": "node/2932300135",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0956502,
+          14.630798
         ]
       }
     }
